@@ -1,0 +1,8 @@
+1. SQL Project
+questions:
+- is our business growing revenue every year
+- should we increase the parking lot size
+- get hotel trend
+
+pipeline:
+-> Build database -> Develop SQL Query -> Connect to PowerBI -> Visualize -> Summary
